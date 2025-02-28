@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://github.com/SudobotsDomain/IMAGE_HOST/blob/6cc890062138369d873c685c3cff819b9f7d9224/ICONS/Untitled27_20250223174532.png');
+    background-size: cover; /* This makes the image cover the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+}
