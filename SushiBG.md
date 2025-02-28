@@ -3,6 +3,8 @@
 # #$u$#i# 
 ## Description 
 SuShell
+##Liscence
+I do whatever the I want license
 ##installation
 '''bash
 npm install
