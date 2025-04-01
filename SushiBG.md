@@ -4,8 +4,7 @@
 # #$u$#i# 
 ## Description 
 
-##Liscence
-[I do whatever the I want license]
+
 ##installation
 '''bash
 npm install
